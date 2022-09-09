@@ -1,0 +1,10 @@
+C:\HopitalizacionVet\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.1\VetEnCasa.App.Dominio.csproj.AssemblyReference.cache
+C:\HopitalizacionVet\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.1\VetEnCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\HopitalizacionVet\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.1\VetEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\HopitalizacionVet\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.1\VetEnCasa.App.Dominio.AssemblyInfo.cs
+C:\HopitalizacionVet\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.1\VetEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HopitalizacionVet\VetEnCasa.App\VetEnCasa.App.Dominio\bin\Debug\netstandard2.1\VetEnCasa.App.Dominio.deps.json
+C:\HopitalizacionVet\VetEnCasa.App\VetEnCasa.App.Dominio\bin\Debug\netstandard2.1\VetEnCasa.App.Dominio.dll
+C:\HopitalizacionVet\VetEnCasa.App\VetEnCasa.App.Dominio\bin\Debug\netstandard2.1\VetEnCasa.App.Dominio.pdb
+C:\HopitalizacionVet\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.1\VetEnCasa.App.Dominio.dll
+C:\HopitalizacionVet\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.1\VetEnCasa.App.Dominio.pdb
